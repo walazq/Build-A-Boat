@@ -35,7 +35,7 @@ keyInput.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
 keyInput.Parent = frame
 
 -- Link to be copied
-local siteLink = "https://pnd.link/Arsenal" -- Put your desired link here
+local siteLink = "https://loot-link.com/s?Xb5VRiOU" -- Put your desired link here
 
 -- When the Get Key button is clicked, copy the link to clipboard and change button text
 getKeyButton.MouseButton1Click:Connect(function()
